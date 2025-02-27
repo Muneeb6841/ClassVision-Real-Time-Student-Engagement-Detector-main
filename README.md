@@ -62,8 +62,3 @@ If the webcam doesn’t open, check your camera permissions.
 
 👨‍💻 Contributing
 Pull requests are welcome! Fork the repo and submit improvements.
-
-📩 Contact
-👤 Muhammad Arham
-📧 Email: m.arham1264@gmail.com
-🔗 LinkedIn: linkedin.com/in/muhammad-arham-95b8331a4

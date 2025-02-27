@@ -26,7 +26,7 @@
 ## **📥 Installation & Usage**
 ### **1️⃣ Clone the Repository**
 
-git clone https://github.com/arham952/ClassVision-Real-Time-Student-Engagement-Detector.git
+git clone https://github.com/Muneeb6841/ClassVision-Real-Time-Student-Engagement-Detector-main
 cd ClassVision-Real-Time-Student-Engagement-Detector
 2️⃣ Install Dependencies
 Ensure you have Python installed, then install required libraries:
